@@ -9,7 +9,7 @@
 import { mapState } from 'vuex';
 
 export default {
-  name: 'Map',
+  name: 'FarmMap',
   data() {
     return {
       map: {},
